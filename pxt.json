@@ -1,0 +1,17 @@
+{
+    "name": "piano buttons",
+    "dependencies": {
+        "adafruit-metro-m0-express": "*",
+        "adafruit-feather-m0-express": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
